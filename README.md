@@ -6,6 +6,4 @@ Conciste en una aplicación web que permite al usuario realizar un análisis exp
 - Creación de gráficos de dispersión para analizar relaciones entre dos variables.
 - Interfaz intuitiva y fácil de usar.
 ## URL de aplicación en Render
-Local URL: http://localhost:8501
-Network URL: http://10.220.153.10:8501
-External URL: http://44.227.217.144:8501
+https://proyecto-7-1-mv9e.onrender.com
