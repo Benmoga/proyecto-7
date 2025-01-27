@@ -5,3 +5,5 @@ Conciste en una aplicación web que permite al usuario realizar un análisis exp
 - Generación de histogramas interactivos para explorar distribuciones de variables.
 - Creación de gráficos de dispersión para analizar relaciones entre dos variables.
 - Interfaz intuitiva y fácil de usar.
+## URL de aplicación en Render
+https://proyecto-7-1-mv9e.onrender.com
