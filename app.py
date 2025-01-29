@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Ruta del dataset
-df = pd.read_csv('C:/Users/Digitalife/Documents/Benja/CURSO Data Scientist/Proyectos/Proyecto Sprint 7/proyecto-7/vehicles_us.csv')
+df = pd.read_csv('vehicles_us.csv')
 
 # Encabezado de la aplicación
 st.header('Análisis Exploratorio de Vehículos')
